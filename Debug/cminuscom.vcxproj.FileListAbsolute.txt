@@ -1,0 +1,3 @@
+F:\cminuscom\Debug\cminuscom.exe
+D:\2019-2020川大学习\编译原理\cminuscom (2)\cminuscom\Debug\C-Compiler.exe
+D:\编译原理\cminuscom\Debug\C-Compiler.exe

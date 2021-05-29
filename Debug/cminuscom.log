@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(cminuscom.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  lexical.cpp
+D:\编译原理\cminuscom\lexical.cpp(29,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\编译原理\cminuscom\lexical.cpp(66,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\编译原理\cminuscom\lexical.cpp(63,7): warning C4101: “ch”: 未引用的局部变量
+  main.cpp
+  parse.cpp
+  scan.cpp
+  util.cpp
+  正在生成代码...
+  cminuscom.vcxproj -> D:\编译原理\cminuscom\Debug\C-Compiler.exe

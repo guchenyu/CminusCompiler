@@ -1,0 +1,14 @@
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<cmath>
+#include<algorithm>
+#include<string>
+#include<vector>
+#include<list>
+#include<set>
+#include<map>
+#include<stack>
+#include<fstream>
+#include<ostream>
+#include<iomanip>
